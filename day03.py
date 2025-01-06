@@ -35,7 +35,7 @@ uppercase = [chr(i) for i in range(65, 91)]
 
 all_letters = lowercase + uppercase
 
-numbers = [num for num in range(1,100)] # i can have this be as big as possible as zip will stop after the shortest list is exhausted
+numbers = [num for num in range(1,100)]
 
 # using naive method
 # to convert lists to dictionary
